@@ -36,12 +36,11 @@ Pandas for data structuring
 LLMs (via OpenRouter / OpenAI-compatible API) for semantic extraction
 Power BI for data visualization and reporting
 
-<img width="1369" height="763" alt="image" src="https://github.com/user-attachments/assets/3f1584c1-3d2d-4584-9d6b-a5fbcc73e6da" />
-
-
 🔹 Use Cases
 
 Financial data analysis
 Invoice automation and accounting workflows
 AI-assisted document understanding
 Business intelligence and reporting
+
+<img width="1369" height="763" alt="image" src="https://github.com/user-attachments/assets/3f1584c1-3d2d-4584-9d6b-a5fbcc73e6da" />
