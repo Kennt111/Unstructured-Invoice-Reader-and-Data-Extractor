@@ -43,6 +43,4 @@ Invoice automation and accounting workflows
 AI-assisted document understanding
 Business intelligence and reporting
 
-<img width="1365" height="762" alt="image" src="https://github.com/user-attachments/assets/879d48ac-a719-4d6d-8be1-34e1f8f00ba2" />
-
 
