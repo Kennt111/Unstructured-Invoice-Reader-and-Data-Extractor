@@ -42,3 +42,6 @@ Financial data analysis
 Invoice automation and accounting workflows
 AI-assisted document understanding
 Business intelligence and reporting
+
+<img width="1270" height="716" alt="image" src="https://github.com/user-attachments/assets/725cd7d4-4fee-4f14-ade6-5758d2e721b3" />
+
